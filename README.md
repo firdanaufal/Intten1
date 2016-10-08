@@ -15,6 +15,6 @@ Kelas: XII RPL 1
 
 No Urut: 37
 
-NIS: 4452/1350.070
+NIS: 4452/1350-070
 
 Nama Sekolah: SMK Telkom Malang
